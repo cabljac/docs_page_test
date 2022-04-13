@@ -7,6 +7,7 @@
     "zoomImages": "false",
     "noindex": "false",
     "navigation": [
+        ["Intro","/"],
         ["Package", "https://pub.dev/packages/flex_color_scheme"],
         ["Playground", "https://rydmike.com/flexcolorscheme/themesplayground-v5"]
     ],
