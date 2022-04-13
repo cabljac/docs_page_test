@@ -1,6 +1,6 @@
 {
     "name": "DocsPageTests",
-    "favicon": "/images/favicon.png",
+    "favicon": "https://github.com/rydmike/docs_page_test/blob/master/docs/images/favicon.png?raw=true",
     "logo": "/images/logo.png",
     "logoDark": "/images/logo.png",
     "theme": "#0x29B6F6",
