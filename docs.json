@@ -4,7 +4,7 @@
     "logo": "/images/logo.png",
     "logoDark": "/images/logo.png",
     "theme": "#0x29B6F6",
-    "zoomImages": "false",
+    "zoomImages": "true",
     "noindex": "false",
     "navigation": [
         ["Another page", "/another_page"],
@@ -18,6 +18,6 @@
                 ["More intro", "/more_intro"]
             ]
         ],
-        ["Another page", "/another_page"]
+        ["Zoom image", "/another_page"]
     ]
 }
