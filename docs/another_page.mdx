@@ -8,14 +8,20 @@ Some content.
 Testing the zoom image feature:
 
 A normal "img" with width set, no zooming here, but a click link to
-open it and view as a full page works fine.
+open it and view it as a full page works fine.
 [<img src="https://github.com/rydmike/docs_page_test/blob/master/docs/images/fcs-v5-d-07.png?raw=true" width="200"/>](https://github.com/rydmike/docs_page_test/blob/master/docs/images/fcs-v5-d-07.png?raw=true)
 
-A "Image" with width set and zoom. How to zoom this image?
-Trying with ZOOM true set as well.
+An "Image" with width set and zoom. How to zoom this image?
+Trying with ZOOM true set as well, did not help.
 
 <Image src="https://github.com/rydmike/docs_page_test/blob/master/docs/images/fcs-v5-d-07.png?raw=true" width="200"
 caption="Zoomable image - how?" zoom />
 
 Let's see where the caption is. The spacing is VERY large between the image
 and the caption, I would prefer it to be closer, can I change it? How?
+
+
+Another attempt with relative repo link for "zoomable" image:
+
+<Image src="/images/fcs-v5-d-07.png" width="150"
+caption="Zoomable image - Second try" zoom />

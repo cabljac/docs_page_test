@@ -1,14 +1,13 @@
 {
     "name": "DocsPageTests",
-    "favicon": "https://github.com/rydmike/docs_page_test/blob/master/docs/images/favicon.png",
+    "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logoDark": "/images/logo.png",
     "theme": "#0x29B6F6",
-    "zoomImages": "false",
+    "zoomImages": "true",
     "noindex": "false",
     "navigation": [
-        ["Intro","/"],
-        ["Another page", "/another_page"],
+        ["More intro", "/more_intro"],
         ["Package", "https://pub.dev/packages/flex_color_scheme"],
         ["Playground", "https://rydmike.com/flexcolorscheme/themesplayground-v5"]
     ],
@@ -19,6 +18,6 @@
                 ["More intro", "/more_intro"]
             ]
         ],
-        ["Another page", "/another_page"]
+        ["Zoom image", "/another_page"]
     ]
 }
