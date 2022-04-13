@@ -7,9 +7,17 @@
     "zoomImages": "false",
     "noindex": "false",
     "navigation": [
-        ["Intro","/"],
         ["Another page", "/another_page"],
         ["Package", "https://pub.dev/packages/flex_color_scheme"],
         ["Playground", "https://rydmike.com/flexcolorscheme/themesplayground-v5"]
+    ],
+    "sidebar": [
+        ["Welcome",
+            [
+                ["Intro","/"],
+                ["More intro", "/more_intro"]
+            ]
+        ],
+        ["Another page", "/another_page"]
     ]
 }
