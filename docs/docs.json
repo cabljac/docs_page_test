@@ -1,9 +1,8 @@
 {
     "name": "DocsPageTests",
-    "favicon": "https://github.com/rydmike/flex_color_scheme_docs/blob/master/docs/images/favicon.png",
-    "logo": "https://github.com/rydmike/flex_color_scheme_docs/blob/master/docs/images/logo.png",
-    "logoDark": "https://github.com/rydmike/flex_color_scheme_docs/blob/master/docs/images/logo.png",
-    "twitter": "rydmike",
+    "favicon": "https://github.com/rydmike/docs_page_test/blob/master/docs/images/favicon.png",
+    "logo": "https://github.com/rydmike/docs_page_test/blob/master/docs/images/logo.png",
+    "logoDark": "https://github.com/rydmike/docs_page_test/blob/master/docs/images/logo.png",
     "theme": "#0x29B6F6",
     "zoomImages": "false",
     "noindex": "false",
