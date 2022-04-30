@@ -10,14 +10,13 @@
         ["Welcome",
             [
                 ["Intro","/"],
-                ["More intro", "/more_intro"]
+                ["Tweet test", "/more_intro"],
+                ["Align tweet", "/tweet_align"]
             ]
         ],
         ["Zoom image", "/another_page"]
     ],
     "navigation": [
-        ["Intro","/"],
-        ["More intro", "/more_intro"],
         ["Package", "https://pub.dev/packages/flex_color_scheme"],
         ["Playground", "https://rydmike.com/flexcolorscheme/themesplayground-v5"]
     ]
